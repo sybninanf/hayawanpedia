@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515238063035",
+    "project_id": "hayawanpedia-aaabb",
+    "storage_bucket": "hayawanpedia-aaabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515238063035:android:4d659085bd8fc4c9d3329e",
+        "android_client_info": {
+          "package_name": "com.example.hayawanpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515238063035-4bk1j8v7s6api73la4o8298is63l5jim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH9LULYbD7_KcPnmlu5d5NGj6HTcxrnrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515238063035-4bk1j8v7s6api73la4o8298is63l5jim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
